@@ -2,5 +2,7 @@
 
 Unity clone of Subway Surfer with cute Pinguin instead.
 
-![Alt text](screenshot.png?raw=true "Title" | width=50)
+![Alt text](screenshot.png?raw=true "Title")
+
+Defunct GFM, ![test](https://github.com/favicon.ico | width=48)
 
