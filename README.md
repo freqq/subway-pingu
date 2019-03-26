@@ -2,6 +2,6 @@
 
 Unity clone of Subway Surfer with cute Pinguin instead.
 
-![Alt text](screenshot.png?raw=false "Title")
+![Alt text](screenshot.png?raw=false = 24x48)
 
 
